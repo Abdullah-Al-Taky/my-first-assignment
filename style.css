@@ -1,0 +1,26 @@
+body{
+    font-family: 'Gentium Book Plus', serif;
+    margin: 0px;
+}
+#donate-head{
+    background-image: url(images/donation13.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    align-items: center;
+}
+#first-section{
+    text-align: center;
+    padding: 100px;
+    color: antiquewhite;
+}
+.button{
+    text-decoration: none;
+    background-color: crimson;
+    font-size: 20px;
+    padding: 15px;
+    border-radius: 10px;
+    color: antiquewhite;
+    font-weight: bold;
+    text-shadow: 1px 1px 1px black;
+}
+
