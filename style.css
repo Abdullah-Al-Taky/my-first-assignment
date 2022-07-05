@@ -22,5 +22,29 @@ body{
     color: antiquewhite;
     font-weight: bold;
     text-shadow: 1px 1px 1px black;
+    border: none;
+}
+.middle-section{
+    align-items: center;
+    text-align: center;
+    padding: 50px 280px;
+}
+.amount{
+    display: flex;
+    padding: 20px 30px;
+
+}
+.amount-section{
+    background-color: darkgray;
+    padding: 40px 20px;
+    font-size: 30px;
+    border-radius: 15px;
+    float: left;
+    margin-left: 50px;
+}
+#taka{
+    border: none;
+    outline: none;
+    font-size: 18px;
 }
 
