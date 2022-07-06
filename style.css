@@ -83,7 +83,7 @@ body{
 }
 .container{
     width: 650px;
-    margin: 0 auto;
+    margin: 30px;
 
 }
 #mail{
@@ -91,7 +91,7 @@ body{
     outline: none;
     font-size: 20px;
     background-color: antiquewhite;
-    padding: 15px;
+    padding: 5px;
     border-radius: 5px;
     color: white;
     font-weight: bold;
@@ -99,11 +99,10 @@ body{
 form{
     position: relative;
     display: block;
-    width: 650px;
+    width: 750px;
     height: 50px;
     background: aquamarine;
-    margin: 0 auto;
-    padding: 50px;
+    padding: 80px;
     border-radius: 5px;
    
 }
@@ -111,12 +110,12 @@ form{
     border: none;
     outline: none;
     font-size: 20px;
-    padding: 15px;
+    padding: 5px;
     border-radius: 5px;
     font-weight: bold;
     color: white;
-    background-color: darkorange;
-    margin-left: none;
+    background-color:  crimson;
+    margin-left: -15px;
 }
 footer{
     background-color: black;
