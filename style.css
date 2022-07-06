@@ -41,10 +41,23 @@ body{
     border-radius: 15px;
     float: left;
     margin-left: 50px;
+    font-weight: bold;
 }
 #taka{
     border: none;
     outline: none;
     font-size: 18px;
 }
-
+.plan-section{
+    align-items: center;
+    display: flex;
+    margin-left: 180px;
+    margin-right: 180px;
+}
+.plan{
+    width: 240px;
+    height: 140px;
+    padding: 90px 40px;
+    margin-left: 50px;
+    border-radius: 15px;
+}
